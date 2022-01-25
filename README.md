@@ -1,4 +1,4 @@
-![I am sakhawathosen170870](https://github.com/harun181/harun181/blob/main/page.png)
+![I am sakhawathosen170870](https://github.com/sakhawathosen170870/sakhawathosen170870/blob/main/Marketing%20and%20Business%20Planner%20LinkedIn%20Banner%20(2).png?raw=true)
 
 
 <h1 align="center">Hi 👋, I'm Sakhawat Hosen(Joney)</h1>
