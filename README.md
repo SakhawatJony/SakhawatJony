@@ -43,9 +43,9 @@ Skills: Tailwindcss/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS/Material UI/Mo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SakhawatJony)](https://github.com/anuraghazra/github-readme-stats)
 
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SakhawatJony&show_icons=true)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SakhawatJony)  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SakhawatJony)  
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SakhawatJony)  
 
@@ -54,5 +54,8 @@ Skills: Tailwindcss/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS/Material UI/Mo
 [![trophy](https://github-profile-trophy.vercel.app/?username=SakhawatJony)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub metrics](https://metrics.lecoq.io/SakhawatJony)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SakhawatJony)  
+
+
 
  
