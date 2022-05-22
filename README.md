@@ -7,7 +7,7 @@
 ![Profile views](https://gpvc.arturio.dev/SakhawatJony) 
 
 Welcome to my GitHub profile. I am a MERN Stack Developer and Web Designer. 
-Knock me: (https://www.linkedin.com/in/sakhawatjony/)](https://www.linkedin.com/in/sakhawatjony/))
+Knock me: [(https://www.linkedin.com/in/sakhawatjony/)] ((https://www.linkedin.com/in/sakhawatjony/))
 
 Skills: Tailwindcss/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS/Material UI/MongoDB
  
