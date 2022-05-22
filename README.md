@@ -7,7 +7,7 @@
 ![Profile views](https://gpvc.arturio.dev/SakhawatJony) 
 
 Welcome to my GitHub profile. I am a MERN Stack Developer and Web Designer. 
-Knock me: https://www.linkedin.com/in/sakhawat-hosen-5ba06a1b7/
+Knock me: [https://www.linkedin.com/in/sakhawat-hosen-5ba06a1b7/](https://www.linkedin.com/in/sakhawat-hosen-joney/)
 
 Skills: Tailwindcss/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS/Material UI/MongoDB
  
@@ -20,7 +20,7 @@ Skills: Tailwindcss/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS/Material UI/Mo
 
 - 📝 I regularly write articles on [https://www.youtube.com/channel/UCkUSKU2eGsF57WmiWXJwn2g](https://www.youtube.com/channel/UCkUSKU2eGsF57WmiWXJwn2g)
 
-- 💬 Ask me about **HTML5, CSS3, JS,React, Bootstrap, Tailwindcss,NODE.JS,Material UI,MongoDB**
+- 💬 Ask me about **HTML5, CSS3, JS,React, RouterV6, Bootstrap, Tailwindcss,NODE.JS,Express.Js,Material UI,MongoDB**
 
 - 📫 How to reach me **sakhawathosen320@gmail.com**
 
