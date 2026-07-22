@@ -14,11 +14,18 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=SakhawatJony&label=Profile%20Views&color=2F80ED&style=flat)
 
+<br/>
+
+![Followers](https://img.shields.io/github/followers/SakhawatJony?label=Followers&style=for-the-badge&color=2F80ED&logo=github&logoColor=white)
+![Stars](https://img.shields.io/github/stars/SakhawatJony?label=Stars&style=for-the-badge&color=F2C94C&logo=github&logoColor=white)
+
 </div>
 
 <br/>
 
 ## 🚀 About Me
+
+> Building fast, scalable, and revenue-driving travel booking platforms — from flight search to final payment.
 
 - 💼 **4+ years** building **OTA (Online Travel Agency)** platforms, ERP systems, and enterprise-grade web apps
 - ✈️ Specialized in **GDS integration** — Sabre, Amadeus, Travelport — plus flight, hotel & payment API integrations
@@ -27,7 +34,7 @@
 - 📍 Based in Dhaka, Bangladesh
 - 📫 Reach me: **sakhawathosen320@gmail.com**
 
-<br/>
+---
 
 ## 🛠️ Tech Stack
 
@@ -47,7 +54,7 @@
 
 </div>
 
-<br/>
+---
 
 ## ✈️ Travel Technology Expertise
 
@@ -63,7 +70,7 @@
 
 </div>
 
-<br/>
+---
 
 ## 💼 Featured Projects
 
@@ -117,20 +124,22 @@ Live OTA platform for flights, hotels & tours
 </tr>
 </table>
 
-<br/>
+---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SakhawatJony&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakhawatJony&layout=compact&theme=tokyonight&hide_border=true" width="42%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SakhawatJony&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakhawatJony&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" width="42%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SakhawatJony&theme=tokyonight&hide_border=true" width="60%"/>
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=SakhawatJony&theme=tokyonight&hide_border=true" width="60%"/>
 
 </div>
 
-<br/>
+---
 
 ## 🌐 Connect With Me
 
@@ -144,7 +153,7 @@ Live OTA platform for flights, hotels & tours
 
 </div>
 
-<br/>
+---
 
 ## 🗣️ Languages
 
