@@ -19,13 +19,14 @@
 
 <br/>
 
-## About Me
+## 🚀 About Me
 
-- **4+ years** building OTA platforms, ERP systems, and enterprise web apps  
-- Specialized in **GDS integration** — Sabre, Amadeus, Travelport  
-- Core stack: **React.js, Next.js, Node.js, MySQL, MongoDB, Docker, GCP**  
-- Based in **Dhaka, Bangladesh** · [sakhawathosen320@gmail.com](mailto:sakhawathosen320@gmail.com)
-
+- 💼 **4+ years** building **OTA (Online Travel Agency)** platforms, ERP systems, and enterprise-grade web apps
+- ✈️ Specialized in **GDS integration** — Sabre, Amadeus, Travelport — plus flight, hotel & payment API integrations
+- 🛠️ Core stack: **React.js, Next.js, Node.js, Express.js, MySQL, MongoDB, Docker, GCP**
+- 🌐 Also experienced in **IoT development** using ESP32 & sensor integration
+- 📍 Based in Dhaka, Bangladesh
+- 📫 Reach me: **sakhawathosen320@gmail.com**
 
 <br/>
 
