@@ -2,8 +2,6 @@
 
 # Hi 👋, I'm Sakhawat Hosen (Joney)
 
-### Full Stack Developer | Travel Technology & OTA Specialist
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=React.js+%7C+Next.js+%7C+Node.js+Developer;OTA+%2F+Travel+Tech+Specialist;Sabre+%7C+Amadeus+%7C+Travelport+GDS" alt="Typing SVG" />
 
 <br/>
@@ -79,7 +77,12 @@ Complete B2B OTA platform for travel agencies & agents
 - Agent Management & Dynamic Markup
 - Admin Panel & Commission System
 
-`React.js` `Next.js` `Node.js` `MySQL` `Docker` `GCP`
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=fff)
 
 </td>
 <td width="50%">
@@ -90,7 +93,12 @@ Customer-facing OTA booking platform
 - User Dashboard & Booking History
 - Payment Gateway Integration
 
-`React.js` `Next.js` `Node.js` `MySQL` `Docker` `GCP`
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=fff)
 
 </td>
 </tr>
@@ -103,7 +111,10 @@ Modern B2C travel booking platform
 - Secure Payment Integration
 - Customer Dashboard
 
-`React.js` `Next.js` `Node.js` `MySQL`
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff)
 
 </td>
 <td width="50%">
@@ -113,7 +124,10 @@ Live OTA platform for flights, hotels & tours
 - Multi-gateway Payments (bKash, Nagad, Rocket, SurjoPay)
 - Traveler & Transaction Management
 
-`React.js` `Material UI` `Nuxt.js` `TypeScript`
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
+![MUI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=fff)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
 
 </td>
 </tr>
