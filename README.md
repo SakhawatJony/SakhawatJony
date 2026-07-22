@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:56CCF2&height=200&section=header&text=Sakhawat%20Hosen&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Travel%20Tech%20%26%20OTA%20Specialist&descAlignY=55&descSize=18" width="100%"/>
+# Hi 👋, I'm Sakhawat Hosen (Joney)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=56CCF2&center=true&vCenter=true&width=700&lines=React.js+%7C+Next.js+%7C+Node.js+Developer;OTA+%2F+Travel+Tech+Specialist;Sabre+%7C+Amadeus+%7C+Travelport+GDS+Integration;4%2B+Years+Building+Scalable+Web+Apps" alt="Typing SVG" />
+### Full Stack Developer | Travel Technology & OTA Specialist
 
 <br/>
 
@@ -12,7 +12,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sakhawathossen.joney)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCkUSKU2eGsF57WmiWXJwn2g)
 
-<img src="https://komarev.com/ghpvc/?username=SakhawatJony&label=Profile%20Views&color=2F80ED&style=flat" alt="Profile views"/>
+![Profile views](https://komarev.com/ghpvc/?username=SakhawatJony&label=Profile%20Views&color=2F80ED&style=flat)
 
 </div>
 
@@ -128,18 +128,6 @@ Live OTA platform for flights, hotels & tours
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SakhawatJony&theme=tokyonight&hide_border=true" width="60%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=SakhawatJony&theme=tokyonight&no-frame=true&row=1&column=6" width="90%"/>
-
-</div>
-
-<br/>
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SakhawatJony&theme=tokyo-night&hide_border=true" width="95%"/>
-
 </div>
 
 <br/>
@@ -171,7 +159,5 @@ Live OTA platform for flights, hotels & tours
 <div align="center">
 
 ### 💬 *"Building scalable travel-tech solutions, one booking flow at a time."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:56CCF2,100:2F80ED&height=100&section=footer" width="100%"/>
 
 </div>
