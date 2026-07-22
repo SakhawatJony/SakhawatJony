@@ -1,66 +1,115 @@
-![I am SakhawatJony](https://github.com/sakhawathosen170870/sakhawathosen170870/blob/main/Marketing%20and%20Business%20Planner%20LinkedIn%20Banner%20(3).png)
+<h1 align="center">Hi 👋, I'm Sakhawat Hosen (Joney)</h1>
+<h3 align="center">Full Stack Developer | Travel Technology & OTA Specialist</h3>
 
-
-<h1 align="center">Hi 👋, I'm Sakhawat Hosen(Joney)</h1>
-<h3 align="center">MERN Stack Web Developer and Web Designer</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
-
-![Profile views](https://gpvc.arturio.dev/SakhawatJony) 
-
-Welcome to my GitHub profile. I am a MERN Stack Developer and Web Designer. 
-Knock me: [(https://www.linkedin.com/in/sakhawatjony/)] ((https://www.linkedin.com/in/sakhawatjony/))
-
-Skills: Tailwindcss/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS/Material UI/MongoDB
- 
-
-- 🔭 I’m currently working on (https://mern-stack-devoloper-sakhawathosen.netlify.app/)
-
-- 🌱 I’m currently learning **JS, React**
-
-- 👨‍💻 All of my projects are available at [https://github.com/SakhawatJony](https://github.com/SakhawatJony)
-
-- 📝 I regularly write articles on [https://www.youtube.com/channel/UCkUSKU2eGsF57WmiWXJwn2g](https://www.youtube.com/channel/UCkUSKU2eGsF57WmiWXJwn2g)
-
-- 💬 Ask me about **HTML5, CSS3, JS,React, RouterV6, Bootstrap, Tailwindcss,NODE.JS,Express.Js,Material UI,MongoDB**
-
-- 📫 How to reach me **sakhawathosen320@gmail.com**
-
-- 📄 All About Me:[https://mern-stack-devoloper-sakhawathosen.netlify.app/](https://mern-stack-devoloper-sakhawathosen.netlify.app/)
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SakhawatJony)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/@sakhawathosen170870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@sakhawathosen170870" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sakhawat hosen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakhawat hosen" height="30" width="40" /></a>
-<a href="https://www.facebook.com/sakhawathossen.joney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sakhawat hossen joney" height="30" width="40" /></a>
-<a href="https://instagram.com/sakhawat5628" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sakhawat5628" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sakhawat hosen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sakhawat hosen" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@sakhawathosen320" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sakhawathosen320" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);OTA+%2F+Travel+Tech+Specialist;React.js+%7C+Next.js+%7C+Node.js;GDS+Integration%3A+Sabre+%7C+Amadeus+%7C+Travelport" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/sakhawatjony/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sakhawathosen320@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/SakhawatJony" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/sakhawathossen.joney" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 🚀 About Me
 
+- 💼 **4+ years** of experience building **OTA (Online Travel Agency)** platforms, ERP systems, and enterprise-grade web apps
+- ✈️ Specialized in **GDS integration** — Sabre, Amadeus, Travelport — plus flight, hotel & payment API integrations
+- 🛠️ Core stack: **React.js, Next.js, Node.js, Express.js, MySQL, MongoDB, Docker, GCP**
+- 🌐 Also experienced in **IoT development** using ESP32 & sensor integration
+- 📍 Based in Dhaka, Bangladesh
+- 📫 Reach me: **sakhawathosen320@gmail.com**
 
+---
 
+### 🧰 Tech Stack
 
-![GitHub metrics](https://metrics.lecoq.io/SakhawatJony) 
+**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SakhawatJony)](https://github.com/anuraghazra/github-readme-stats)
+**Backend**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SakhawatJony&show_icons=true)  
+**Cloud, DevOps & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+</p>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SakhawatJony)   
+**Travel Tech / IoT**
+<p>
+  <img src="https://img.shields.io/badge/Sabre_GDS-003366?style=flat-square" />
+  <img src="https://img.shields.io/badge/Amadeus_GDS-1C3F94?style=flat-square" />
+  <img src="https://img.shields.io/badge/Travelport_GDS-004A8F?style=flat-square" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+</p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SakhawatJony)  
+---
 
+### 💼 Featured Projects
 
+| Project | Description | Tech |
+|---|---|---|
+| **IonTrip B2B** | B2B OTA platform — flight, hotel & tour booking, agent management, dynamic markup | React, Next.js, Node.js, MySQL, Docker, GCP |
+| **IonTrip B2C** | Customer-facing OTA platform with booking, dashboard & payments | React, Next.js, Node.js, MySQL |
+| **Suleil B2C** | Modern B2C travel booking platform with SEO optimization | React, Next.js, Node.js, MySQL |
+| **Fly IT Search** | Live OTA platform for flights, hotels & tours with multi-gateway payments | React, Material UI, Nuxt.js, TypeScript |
 
- 
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SakhawatJony&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SakhawatJony&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakhawatJony&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SakhawatJony&theme=tokyonight&no-frame=true&row=1" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SakhawatJony&style=flat-square&color=blueviolet" alt="Profile views" />
+</p>
+
+---
+
+### 🌐 Languages
+
+- 🇧🇩 Bengali — Native
+- 🇬🇧 English — Professional Working Proficiency
+- 🇯🇵 Japanese — N5
+
+<p align="center"><i>Thanks for visiting my profile! Let's connect and build something great. 🚀</i></p>
