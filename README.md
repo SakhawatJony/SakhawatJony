@@ -1,119 +1,196 @@
+<!--
+  Premium GitHub Profile README — Sakhawat Hosen
+  Copy this entire file to: github.com/SakhawatJony/SakhawatJony → README.md
+-->
+
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050B14,40:0D1B2A,100:1B4F72&text=Sakhawat%20Hosen&fontSize=54&fontColor=F5F7FA&fontAlignY=32&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20Travel%20Tech%20%26%20OTA%20Specialist&descSize=16&descAlignY=52&descColor=A8C5D4" width="100%" alt="header"/>
+</div>
 
-# Hi 👋, I'm Sakhawat Hosen (Joney)
-
-### Full Stack Developer | Travel Technology & OTA Specialist
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=React.js+%7C+Next.js+%7C+Node.js+Developer;OTA+%2F+Travel+Tech+Specialist;Sabre+%7C+Amadeus+%7C+Travelport+GDS" alt="Typing SVG" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1400&color=5DADE2&center=true&vCenter=true&width=680&lines=React.js+%7C+Next.js+%7C+Node.js;OTA+%26+Travel+Technology+Specialist;Sabre+%C2%B7+Amadeus+%C2%B7+Travelport+GDS;Scalable+booking+platforms+%26+APIs" alt="typing"/>
+</div>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakhawatjony/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mern-stack-devoloper-sakhawathosen.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakhawathosen320@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sakhawathossen.joney)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCkUSKU2eGsF57WmiWXJwn2g)
+<div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=SakhawatJony&label=Profile%20Views&color=2F80ED&style=flat)
+<a href="https://www.linkedin.com/in/sakhawatjony/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn"/></a>
+&nbsp;&nbsp;
+<a href="https://mern-stack-devoloper-sakhawathosen.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=fff&labelColor=161B22" alt="Portfolio"/></a>
+&nbsp;&nbsp;
+<a href="mailto:sakhawathosen320@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=fff" alt="Email"/></a>
+&nbsp;&nbsp;
+<a href="https://www.facebook.com/sakhawathossen.joney"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=fff" alt="Facebook"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=SakhawatJony&label=Visitors&color=1B4F72&style=flat-square" alt="visitors"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/SakhawatJony?label=Followers&style=flat-square&color=5DADE2&logo=github" alt="followers"/>
 
 </div>
 
 <br/>
 
-## 🚀 About Me
-
-- 💼 **4+ years** building **OTA (Online Travel Agency)** platforms, ERP systems, and enterprise-grade web apps
-- ✈️ Specialized in **GDS integration** — Sabre, Amadeus, Travelport — plus flight, hotel & payment API integrations
-- 🛠️ Core stack: **React.js, Next.js, Node.js, Express.js, MySQL, MongoDB, Docker, GCP**
-- 🌐 Also experienced in **IoT development** using ESP32 & sensor integration
-- 📍 Based in Dhaka, Bangladesh
-- 📫 Reach me: **sakhawathosen320@gmail.com**
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2" alt=""/>
 
 <br/>
 
-## 🛠️ Tech Stack
+## About Me
+
+```text
+Full-stack engineer · 4+ years shipping production OTA platforms,
+ERP systems, and high-traffic booking products.
+
+Travel-tech specialist — GDS integrations, multi-supplier search,
+and payment-ready booking flows with clean architecture & performance.
+```
 
 <div align="center">
 
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,bootstrap,html,css,materialui" />
-
-**Backend & Database**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mysql,mongodb" />
-
-**Cloud, DevOps & Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=gcp,docker,firebase,git,github,figma,vscode,npm" />
-
-</div>
-
-<br/>
-
-## ✈️ Travel Technology Expertise
-
-<div align="center">
-
-| GDS / API | Focus Area |
+| | |
 |:---:|:---|
-| 🔷 **Sabre GDS** | Flight search, booking, PNR management |
-| 🔶 **Amadeus GDS** | Fare search, ticketing workflows |
-| 🟣 **Travelport GDS** | Multi-source flight aggregation |
-| 💳 **Payment Gateways** | bKash, Nagad, Rocket, SurjoPay |
-| 🏨 **Hotel APIs** | Search, booking & inventory management |
+| **Focus** | OTA / Travel Tech · GDS · Booking Engines |
+| **Stack** | React · Next.js · Node.js · MySQL · MongoDB · Docker · GCP |
+| **Location** | Dhaka, Bangladesh |
+| **Contact** | [sakhawathosen320@gmail.com](mailto:sakhawathosen320@gmail.com) |
 
 </div>
 
 <br/>
 
-## 💼 Featured Projects
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2" alt=""/>
+
+<br/>
+
+## Tech Stack
+
+<br/>
+
+<div align="center">
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,sass,bootstrap,css,tailwind,html,materialui&perline=10" alt="frontend"/>
+
+<br/><br/>
+
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mysql,mongodb,docker&perline=8" alt="backend"/>
+
+<br/><br/>
+
+### Cloud & Tools
+<img src="https://skillicons.dev/icons?i=aws,gcp,vercel,firebase,github,vscode,postman,npm&perline=8" alt="cloud"/>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2" alt=""/>
+
+<br/>
+
+## Travel Technology
+
+<br/>
+
+<div align="center">
+
+| Platform | What I build |
+|:---|:---|
+| **Sabre GDS** | Flight search · booking · PNR lifecycle |
+| **Amadeus GDS** | Fare shopping · ticketing workflows |
+| **Travelport GDS** | Multi-source flight aggregation |
+| **Hotel APIs** | Search · rates · inventory · booking |
+| **Payments** | bKash · Nagad · Rocket · SurjoPay |
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2" alt=""/>
+
+<br/>
+
+## Featured Work
+
+<br/>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ✈️ [IonTrip B2B Travel Platform](#)
-Complete B2B OTA platform for travel agencies & agents
-- Flight, Hotel & Tour Booking Engine
-- Agent Management & Dynamic Markup
-- Admin Panel & Commission System
+#### IonTrip — B2B OTA
+Enterprise booking for agencies & agents.
 
-`React.js` `Next.js` `Node.js` `MySQL` `Docker` `GCP`
+- Flight, hotel & tour engine  
+- Dynamic markup & agent ops  
+- Admin · commissions · reporting  
+
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000"/>
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=fff"/>
+</p>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌍 [IonTrip B2C Travel Platform](#)
-Customer-facing OTA booking platform
-- Flight & Hotel Search/Booking
-- User Dashboard & Booking History
-- Payment Gateway Integration
+#### IonTrip — B2C OTA
+Customer-facing travel marketplace.
 
-`React.js` `Next.js` `Node.js` `MySQL` `Docker` `GCP`
+- Flight & hotel search / book  
+- Account & booking history  
+- Payment gateway ready  
+
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000"/>
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=fff"/>
+</p>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧳 [Suleil B2C Travel Platform](#)
-Modern B2C travel booking platform
-- SEO Optimization
-- Secure Payment Integration
-- Customer Dashboard
+#### Suleil — B2C Travel
+Modern consumer booking experience.
 
-`React.js` `Next.js` `Node.js` `MySQL`
+- SEO-first architecture  
+- Secure payments  
+- Traveler dashboard  
+
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000"/>
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff"/>
+</p>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔎 [Fly IT Search](#)
-Live OTA platform for flights, hotels & tours
-- Multi-gateway Payments (bKash, Nagad, Rocket, SurjoPay)
-- Traveler & Transaction Management
+#### Fly IT Search
+Live OTA — flights, hotels & tours.
 
-`React.js` `Material UI` `Nuxt.js` `TypeScript`
+- Multi-gateway payments  
+- Traveler & transaction ops  
+- TypeScript frontend  
+
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000"/>
+<img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=fff"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff"/>
+</p>
 
 </td>
 </tr>
@@ -121,57 +198,80 @@ Live OTA platform for flights, hotels & tours
 
 <br/>
 
-## 📊 GitHub Analytics
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2" alt=""/>
+
+<br/>
+
+## GitHub Snapshot
+
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SakhawatJony&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakhawatJony&layout=compact&theme=tokyonight&hide_border=true" width="42%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SakhawatJony&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=5DADE2&icon_color=5DADE2&text_color=C9D1D9&count_private=true&include_all_commits=true" height="170" alt="stats"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakhawatJony&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=5DADE2&text_color=C9D1D9" height="170" alt="langs"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SakhawatJony&theme=tokyonight&hide_border=true" width="60%"/>
+<br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=SakhawatJony&theme=tokyonight&no-frame=true&row=1&column=6" width="90%"/>
+<img src="https://streak-stats.demolab.com?user=SakhawatJony&theme=dark&hide_border=true&background=0D1117&ring=1B4F72&fire=5DADE2&currStreakLabel=5DADE2" width="58%" alt="streak"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=SakhawatJony&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=12" width="95%" alt="trophies"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SakhawatJony&bg_color=0d1117&color=5dade2&line=1b4f72&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="96%" alt="activity"/>
 
 </div>
 
 <br/>
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SakhawatJony&theme=tokyo-night&hide_border=true" width="95%"/>
-
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2" alt=""/>
 
 <br/>
 
-## 🌐 Connect With Me
+## Languages
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sakhawatjony/)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sakhawathossen.joney)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sakhawat5628)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCkUSKU2eGsF57WmiWXJwn2g)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/@sakhawathosen320)
-
-</div>
-
-<br/>
-
-## 🗣️ Languages
 
 | Language | Proficiency |
-|---|---|
+|:---:|:---:|
 | 🇧🇩 Bengali | Native |
-| 🇬🇧 English | Professional Working Proficiency |
+| 🇬🇧 English | Professional working |
 | 🇯🇵 Japanese | N5 |
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2" alt=""/>
+
+<br/>
+
+## Connect
 
 <br/>
 
 <div align="center">
 
-### 💬 *"Building scalable travel-tech solutions, one booking flow at a time."*
+<a href="https://www.linkedin.com/in/sakhawatjony/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn"/></a>
+&nbsp;
+<a href="https://www.facebook.com/sakhawathossen.joney"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=fff" alt="Facebook"/></a>
+&nbsp;
+<a href="https://instagram.com/sakhawat5628"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=fff" alt="Instagram"/></a>
+&nbsp;
+<a href="https://www.youtube.com/channel/UCkUSKU2eGsF57WmiWXJwn2g"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=fff" alt="YouTube"/></a>
+&nbsp;
+<a href="https://www.hackerrank.com/@sakhawathosen320"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=fff" alt="HackerRank"/></a>
+
+<br/><br/>
+
+### *Building scalable travel-tech products — from search to ticket.*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B4F72,100:050B14&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
